@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "rs-mq"
+name = "geo-tools"
 version = "0.1.0"
